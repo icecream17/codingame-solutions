@@ -6,7 +6,12 @@ while (true) {
     var dist2 = parseInt(readline()); // distance to enemy 2
 
     // Write an action using console.log()
-    
+
     // Enter the code here
-dist1 < dist2 ? console.log(enemy1) : console.log(enemy2);
+
+    if (dist1 < dist2) {
+        console.log(enemy1);
+    } else {
+        console.log(enemy2);
+    }
 }
