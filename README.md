@@ -26,3 +26,16 @@ Make sure the score is 100%.
 
 `breach` has an amazing solution (by MistyPhi).
 I just love the aesthetic of single line fullwidth comments.
+
+## Stats
+
+| Difficulty | Count |
+|------------|------:|
+| Easy       | 22    |
+| Medium     | 8     |
+| Hard       | 3     |
+| Expert     | 2     |
+
+Personally I think the ratings are inaccurate, though it's hard to say for some of them.
+For a lot of puzzles, the actual difficulty lies in tediousness and expansiveness of
+following all the rules, but ignoring that the puzzle is really easy.
