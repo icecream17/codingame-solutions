@@ -8,7 +8,7 @@ The structure of this repo is based on
 In folder names, I use the link, i.e. `the-descent` not `The Descent` for the
 puzzle at <https://www.codingame.com/ide/puzzle/the-descent>.
 
-And `Very Hard` becomes `expert`.
+And the `Very Hard` difficulty becomes `expert`.
 
 I show all my solutions in various languages and in chronological order.
 
@@ -16,7 +16,8 @@ For example, `go.go` is my first go solution.
 `js3.js` would be my third js solution.
 
 Most solutions were made years ago and my coding is very sloppy. But feel free
-to add an issue and request a better solution.
+to add an issue and request a better solution. If a solution is made by someone
+else, that is indicated with `_by_[username]` in the filename.
 
 ## Notes to self
 
@@ -31,11 +32,11 @@ I just love the aesthetic of single line fullwidth comments.
 
 | Difficulty | Count |
 |------------|------:|
-| Easy       | 23    |
+| Easy       | 27    |
 | Medium     | 8     |
 | Hard       | 3     |
 | Expert     | 2     |
 
-Personally I think the ratings are inaccurate, though it's hard to say for some of them.
-For a lot of puzzles, the actual difficulty lies in tediousness and expansiveness of
-following all the rules, but ignoring that the puzzle is really easy.
+Personally I think the community success rate is a better indicator of
+difficulty than the classification. Though at this point I think I can
+easily solve all easy puzzles, so I won't do any more.
