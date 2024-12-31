@@ -17,7 +17,7 @@ For example, `go.go` is my first go solution.
 
 Most solutions were made years ago and my coding is very sloppy. But feel free
 to add an issue and request a better solution. If a solution is made by someone
-else, that is indicated with `_by_[username]` in the filename.
+else, that is indicated with `-by-[username]` in the filename.
 
 ## Notes to self
 
