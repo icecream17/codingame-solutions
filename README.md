@@ -15,9 +15,12 @@ I show all my solutions in various languages and in chronological order.
 For example, `go.go` is my first go solution.
 `js3.js` would be my third js solution.
 
-Most solutions were made years ago and my coding is very sloppy. But feel free
-to add an issue and request a better solution. If a solution is made by someone
-else, that is indicated with `-by-[username]` in the filename.
+By default, my code is low quality, though no AI is used. CodinGame can be good
+for learning how to program and solve problems, but it's not really good for
+learning how to create quality code.
+
+So feel free to add an issue and request a better solution.
+Solutions made by others are indicated with `-by-[username]` in the filename.
 
 ## Notes to self
 
@@ -33,10 +36,10 @@ I just love the aesthetic of single line fullwidth comments.
 | Difficulty | Count |
 |------------|------:|
 | Easy       | 28    |
-| Medium     | 10    |
+| Medium     | 11    |
 | Hard       | 3     |
 | Expert     | 2     |
 
-Personally I think the community success rate is a better indicator of
+Note that the community success rate is a much better indicator of
 difficulty than the classification. Though at this point I think I can
 easily solve all easy puzzles, so I won't do any more.
