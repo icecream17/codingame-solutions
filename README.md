@@ -41,5 +41,6 @@ I just love the aesthetic of single line fullwidth comments.
 | Expert     | 2     |
 
 Note that the community success rate is a much better indicator of
-difficulty than the classification. Though at this point I think I can
-easily solve all easy puzzles, so I won't do any more.
+difficulty than the classification.
+
+Once you've done several in a difficulty, you can probably do all of them.
