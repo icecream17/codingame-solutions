@@ -38,7 +38,7 @@ I just love the aesthetic of single line fullwidth comments.
 | Easy       | 28    |
 | Medium     | 11    |
 | Hard       | 4     |
-| Expert     | 2     |
+| Expert     | 3     |
 
 Note that the community success rate is a much better indicator of
 difficulty than the classification.
