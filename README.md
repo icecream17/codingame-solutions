@@ -36,7 +36,7 @@ I just love the aesthetic of single line fullwidth comments.
 | Difficulty | Count |
 |------------|------:|
 | Easy       | 28    |
-| Medium     | 11    |
+| Medium     | 12    |
 | Hard       | 4     |
 | Expert     | 3     |
 
